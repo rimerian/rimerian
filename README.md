@@ -18,6 +18,7 @@
 
 <h3 align="left">🛠 Technologies and Tools:</h3>
 
+<!-- deprecated (need updates)
 <table width="800px" border="0">
   <tr><td align="center">
     <h4 align="left">🔧 Technologies</h4>
@@ -120,3 +121,4 @@
     </a>
   </td></tr>
 </table>
+-->

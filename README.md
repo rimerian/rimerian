@@ -16,9 +16,9 @@
   <li>📚  I strive to continue learning, to challenge myself, both as a developer and as a person.</li>
 </ul>
 
+<!-- deprecated (need updates)
 <h3 align="left">🛠 Technologies and Tools:</h3>
 
-<!-- deprecated (need updates)
 <table width="800px" border="0">
   <tr><td align="center">
     <h4 align="left">🔧 Technologies</h4>
